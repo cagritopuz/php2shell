@@ -1,0 +1,7 @@
+# Only the published files belong in this repo (keeps test/scratch output out)
+/*
+!/.gitignore
+!/.gitattributes
+!/LICENSE
+!/README.md
+!/php2shell_fix.sh
